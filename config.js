@@ -5,5 +5,5 @@
  * Paste your Apps Script Web App URL (ending in /exec). Leave empty for demo mode (admin password: "demo").
  */
 window.QTI_CONFIG = {
-  API_URL: 'https://dattien25.github.io/QTI-survey/'
+  API_URL: ''
 };
