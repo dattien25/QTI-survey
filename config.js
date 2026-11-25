@@ -5,5 +5,5 @@
  * Paste your Apps Script Web App URL (ending in /exec). Leave empty for demo mode (admin password: "demo").
  */
 window.QTI_CONFIG = {
-  API_URL: ''
+  API_URL: 'https://script.google.com/macros/s/AKfycbykQa61AAiVhIgJEypm7rBmP8R7WHIaS_xA54quyZrO9ln8WwWHkextY7mwTtLxLHrl/exec'
 };
