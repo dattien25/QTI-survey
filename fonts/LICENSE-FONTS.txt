@@ -1,0 +1,14 @@
+CDA Mê Ly Display, CDA Independence VAR
+Copyright 2026 Cōllective Design Agency (CDA).
+Designers: An Bui (Mê Ly); Duc-Hai (Harry) Dinh, An Bui, Minh Nguyen (Independence).
+
+These fonts are licensed under the SIL Open Font License, Version 1.1.
+The full license text is embedded in each font file (name table) and is available at:
+https://openfontlicense.org/open-font-license-official-text/
+
+Các font này được cấp phép theo SIL Open Font License 1.1: được dùng, nhúng lên web và
+phân phối lại miễn phí, kèm theo thông báo bản quyền và giấy phép này; không được bán riêng font.
+
+CDAIndependenceText.ttf là bản rút gọn của CDA Independence VAR (cố định trục SRFF = 2 "Text", slnt = 0),
+chỉ dùng để vẽ ảnh kết quả trên canvas. Bản này cũng theo SIL OFL 1.1.
+CDAIndependenceText.ttf is an instance of CDA Independence VAR (SRFF = 2, slnt = 0) used for canvas export; also SIL OFL 1.1.
